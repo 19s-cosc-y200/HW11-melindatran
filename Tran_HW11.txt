@@ -6,6 +6,8 @@ Date Last Modified: April 8, 2019
 1.
 <p style="color:white; background-color:green">This is a paragraph.</p>
 
+should be in hex
+
 2.
 <style>
 	  body { background-color: #EAEAEA;
@@ -18,9 +20,13 @@ body { color: brown;
 	  font-family: Arial, Verdana, sans-serif;
    }
 
+should be in hex
+   
 4.
 	<style>
 	  .new { font-size: bold;
 		 font-style: italic;
 	  }
 	</style>
+
+missing font-weight
